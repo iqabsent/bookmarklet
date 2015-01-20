@@ -6,6 +6,6 @@
       }
     }
     
-    console.log('Scripts Loaded');
+	    console.log('Scripts Loaded');
   }
 )()
